@@ -15,7 +15,7 @@ This was developed as part of my first-year software engineering project.
 ## 🧩 Features
 - Interactive text-based interface  
 - Automated computer opponent  
-- Input validation (no crashes!)  
+- Input validation
 - Pair removal logic and random shuffling  
 
 ---

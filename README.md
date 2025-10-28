@@ -25,6 +25,7 @@ This was developed as part of my first-year software engineering project.
 ```bash
 python old_maid.py
 ```
+
 ---
 
 ## 🎬 Demo

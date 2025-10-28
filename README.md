@@ -31,6 +31,6 @@ python old_maid.py
 
 Here’s a short demo of the game in action 🎮:
 
-![Old Maid Demo](gamedemo.gif)
+![Old Maid Demo](game_demo.gif)
 
 
